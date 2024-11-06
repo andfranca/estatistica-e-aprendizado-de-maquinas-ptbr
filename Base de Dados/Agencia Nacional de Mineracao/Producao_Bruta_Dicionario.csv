@@ -1,0 +1,15 @@
+Nome da Coluna,Tipo de Dado,Descrição
+Ano Base,Alfanumérico,Identificador do ano base a que se refere a informação
+Classe Substância,Alfanumérico,Descrição da classe a qual pertence a substância mineral
+Substância Mineral,Alfanumérico,Descrição da substância mineral
+Unidade de Medida Contido,Alfanumérico,Sigla da unidade de medida da produção do contido
+UF,Alfanumérico,Sigla da unidade da federação a que se refere a informação
+Quantidade Produção - Minério ROM (t),Numérico,Quantidade de minério na forma bruta (toneladas)
+Quantidade Contido,Numérico,Quantidade de produção do contido
+Indicação Contido,Alfanumérico,"Indicação do mineral, composto ou elemento químico a que se refere o contido"
+Quantidade Venda (t),Numérico,Quantidade de produção bruta comercializada (toneladas)
+Valor Venda (R$),Numérico,Valor de venda da produção bruta (reais R$)
+Quantidade Transformação / Consumo / Utilização (t),Numérico,Quantidade de produção bruta transformada / consumida / utilização na própria mina (toneladas)
+Valor Transformação / Consumo / Utilização nesta mina (R$),Numérico,Valor da produção bruta transformada / consumida / utilização na própria mina (reais R$)
+Quantidade Transferência para Transformação / Utilização / Consumo (t),Numérico,Quantidade de produção bruta transferida para transformação / utilização / consumo (toneladas)
+Valor Transferência para Transformação / Utilização / Consumo (R$),Numérico,Valor da produção bruta transferida para transformação / utilização / consumo (reais R$)

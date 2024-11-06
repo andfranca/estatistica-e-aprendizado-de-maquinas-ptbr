@@ -8,7 +8,7 @@ Este repositório contém um conjunto de aulas e exemplos práticos em **Python*
 ## 📑 Estrutura do Repositório
 
 - **notebooks/**: Pasta que contém os notebooks Jupyter com as aulas detalhadas.
-- **datasets/**: Pasta com os conjuntos de dados utilizados nas aulas, em formato `.csv` ou similar.
+- **base de dados/**: Pasta com os conjuntos de dados utilizados nas aulas, em formato `.csv` ou similar.
 - **imagens/**: Pasta para armazenar gráficos e visualizações gerados nas aulas, que podem ser referenciados no README ou em documentações futuras.
 - **README.md**: Este arquivo, com a descrição do projeto e instruções de uso.
 

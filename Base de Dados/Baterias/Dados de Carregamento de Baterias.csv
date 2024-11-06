@@ -1,4 +1,4 @@
-Charge_Time_hours,Energy_Stored_mAh,Temperature_C,Battery_Age_months,Charging_Voltage_V,Charging_Current_A,Battery_Health_percent
+Tempo_de_Carga_horas,Energia_Armazenada_mAh,Temperatura_C,Idade_da_Bateria_meses,Tensao_de_Carga_V,Corrente_de_Carga_A,Saude_da_Bateria_percentual
 4,617.9,24.6,2,3.7,1.0,96.7
 2,449.56,27.0,12,5.0,1.0,88.7
 6,827.77,27.4,10,3.7,1.5,80.1
